@@ -1,0 +1,5 @@
+data/
+*.csv
+*.pkl
+*.rds
+*.qs
